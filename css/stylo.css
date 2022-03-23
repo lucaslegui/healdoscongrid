@@ -114,7 +114,7 @@ li a:hover {
   display: flex;
   flex-direction: column;
   height: 20rem;
-  background-image: url(../img/header.jpg);
+  background-image: url(../img/header.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
